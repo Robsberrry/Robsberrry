@@ -14,13 +14,13 @@ Hi there! I'm 🔐Robsberrry🍇, blending the art of security (🔐) and the sw
 
 Here are some of the notable projects I've participated in as a validator:
 
-- **[Initia](#)** ![Initia Logo](#)
-- **[Side Protocol](#)** ![Side Protocol Logo](#)
-- **[EmPower](#)** ![EmPower Logo](#)
-- **[Juneo](#)** ![Juneo Logo](#)
-- **[Nillion](#)** ![Nillion Logo](#)
-- **[Pryzm](#)** ![Pryzm Logo](#)
-- **[Lava](https://explorer.stavr.tech/Lava-Testnet/staking/lava@valoper1ejrru4058x3unsvtc9spnsx25wyd3khvehyexe)** ![Lava Logo](https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_200x200.jpg)
+- [![Initia Logo](URL_ссылки_на_фото_Initia)](URL_ссылки_на_проект_Initia)
+- [![Side Protocol Logo](URL_ссылки_на_фото_Side_Protocol)](URL_ссылки_на_проект_Side_Protocol)
+- [![EmPower Logo](URL_ссылки_на_фото_EmPower)](URL_ссылки_на_проект_EmPower)
+- [![Juneo Logo](URL_ссылки_на_фото_Juneo)](URL_ссылки_на_проект_Juneo)
+- [![Nillion Logo](URL_ссылки_на_фото_Nillion)](URL_ссылки_на_проект_Nillion)
+- [![Pryzm Logo](URL_ссылки_на_фото_Pryzm)](URL_ссылки_на_проект_Pryzm)
+- [![Lava Logo](https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_200x200.jpg)](https://explorer.stavr.tech/Lava-Testnet/staking/lava@valoper1ejrru4058x3unsvtc9spnsx25wyd3khvehyexe)
 
 ### Skills
 
