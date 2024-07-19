@@ -10,6 +10,18 @@ Hi there! I'm 🔐Robsberrry🍇, blending the art of security (🔐) and the sw
 - **Testnet Participation**: I've been part of a bountiful harvest of testnet projects, contributing to the development and testing of cutting-edge blockchain technologies.
 - **DevOps Engineering**: With a strong background in DevOps, I specialize in automating processes, improving system reliability, and deploying scalable infrastructure—ensuring everything runs smoothly and securely.
 
+### Projects
+
+Here are some of the notable projects I've participated in as a validator:
+
+- **[Initia](#)** ![Initia Logo](#)
+- **[Side Protocol](#)** ![Side Protocol Logo](#)
+- **[EmPower](#)** ![EmPower Logo](#)
+- **[Juneo](#)** ![Juneo Logo](#)
+- **[Nillion](#)** ![Nillion Logo](#)
+- **[Pryzm](#)** ![Pryzm Logo](#)
+- **[Lava](https://explorer.stavr.tech/Lava-Testnet/staking/lava@valoper1ejrru4058x3unsvtc9spnsx25wyd3khvehyexe)** ![Lava Logo](https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_200x200.jpg)
+
 ### Skills
 
 - Blockchain Technology
