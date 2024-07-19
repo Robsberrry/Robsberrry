@@ -22,6 +22,18 @@ Here are some of the notable projects I've participated in as a validator:
 - [![Pryzm Logo](https://pbs.twimg.com/profile_images/1711757188757168128/tASYFnV8_200x200.jpg)](https://testnet.itrocket.net/pryzm/staking/pryzmvaloper13d3wz9mq9zyslqwlkfa3qmdpz7ssvu0jm6jqnz)
 - [![Lava Logo](https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_200x200.jpg)](https://explorer.stavr.tech/Lava-Testnet/staking/lava@valoper1ejrru4058x3unsvtc9spnsx25wyd3khvehyexe)
 
+  ### Successfully Merged Pull Requests
+
+Here are some of the companies that have successfully merged my pull requests:
+
+- **[Company 1](URL_ссылки_на_компанию_1)**:
+  - [Pull Request 1](URL_ссылки_на_пулл_реквест_1)
+  - [Pull Request 2](URL_ссылки_на_пулл_реквест_2)
+
+- **[Company 2](URL_ссылки_на_компанию_2)**:
+  - [Pull Request 3](URL_ссылки_на_пулл_реквест_3)
+  - [Pull Request 4](URL_ссылки_на_пулл_реквест_4)
+
 ### Skills
 
 - Blockchain Technology
