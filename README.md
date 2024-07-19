@@ -27,10 +27,10 @@ Here are some of the notable projects I've participated in as a validator:
 Here are some of the companies that have successfully merged my pull requests:
 
 - **[BabylonChain Inc.](https://babylonchain.io/)**:
-  - [Pull Request 1](https://github.com/babylonchain/networks/pull/305)
+  - [Pull Request](https://github.com/babylonchain/networks/pull/305)
 
 - **[Anoma](https://anoma.net/)**:
-  - [Pull Request 3](https://github.com/anoma/namada-testnets/pull/2971)
+  - [Pull Request](https://github.com/anoma/namada-testnets/pull/2971)
 
 ### Skills
 
