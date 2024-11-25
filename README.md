@@ -24,6 +24,10 @@ Here are some of the notable projects I've participated in as a validator:
 ![image](https://github.com/user-attachments/assets/1abc619d-fba5-47be-9578-db2b07a98a67)
 ![image](https://github.com/user-attachments/assets/99d92721-c910-4832-b4f2-89404514ff1c)
 ![image](https://github.com/user-attachments/assets/7eaa0c58-29d2-46e9-b9b0-fd04a34d1ff8)
+![image](https://github.com/user-attachments/assets/6524190a-db0c-4113-a603-b2d6b526db27)
+
+
+
 
 ### Successfully Merged Pull Requests
 
